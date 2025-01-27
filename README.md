@@ -7,10 +7,10 @@ This repository demonstrates the use of decision tree for classification using I
 4. [Dataset details](#dataset_details)
 5. [implementation steps](#implementation_steps)
 
-##overview
+## overview
 This project showcases the implemention of decision tree algorithm
 
-##setup_and_installation
+## setup_and_installation
 - Python 3.9
 - Basic understanding of ML topics
 - Using colab experience

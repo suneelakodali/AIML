@@ -7,7 +7,7 @@ This repository demonstrates the use of decision tree for classification using I
 4. [Dataset details](#dataset_details)
 5. [implementation steps](#implementation_steps)
 
-## overview
+## Overview
 This project showcases the implemention of decision tree algorithm
 
 ## Prerequistie
@@ -16,7 +16,7 @@ This project showcases the implemention of decision tree algorithm
 - Basic understanding of ML topics
 - Using colab experience
   
-## setup_and_installation
+## Setup_and_Installation
 
 1. clone the repo using "git clone"
 2. need to install required libraries using requirements.txt
